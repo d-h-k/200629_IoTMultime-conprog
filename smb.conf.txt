@@ -1,0 +1,10 @@
+[pi]
+comment=Raspberry Pi Share
+path=/home/pi
+available=yes
+valid users=pi
+browseable=yes
+writeable=yes
+create mask=0644
+directory mask=0755
+public=yes
